@@ -2,6 +2,6 @@ function calcularMedia (nota1,nota2) {
     let media = (nota1 + nota2) /2;
     return media;
 }
-let resultado = calcularMedia(8, 6)
+let resultado = calcularMedia(8, 7)
 
 console.log (resultado)
